@@ -1,4 +1,4 @@
-const CACHE_NAME = 'apsrtc-diary-v1';
+const CACHE_NAME = 'apsrtc-diary-v2';
 const urlsToCache = [
   './',
   './index.html',
